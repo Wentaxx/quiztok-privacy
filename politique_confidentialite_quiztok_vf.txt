@@ -1,7 +1,7 @@
 Politique de Confidentialité – QuizTok
 Dernière mise à jour : 1er avril 2025
 Éditeur de l’application : Développeur QuizTok
-Contact : quiztokappx@gmail.com
+Contact : quizappx@gmail.com
 
 📱 Informations collectées
 L’application QuizTok ne vous demande aucune inscription et ne collecte aucune donnée personnelle identifiable (nom, e-mail, localisation, etc.).
@@ -26,10 +26,13 @@ Peut transmettre des données techniques anonymes à Google pour optimiser la di
 Lors du premier lancement de l’application, vous serez invité à choisir :
 
 ✅ Si vous acceptez les annonces personnalisées
+
 🚫 Ou si vous préférez des annonces non personnalisées
 
 Votre choix est stocké localement et peut être modifié à tout moment dans :
+
 Les paramètres de confidentialité de votre appareil
+
 Ou, selon la plateforme, via une option intégrée dans l’app (si disponible)
 
 Cette gestion du consentement est conforme au Règlement Général sur la Protection des Données (RGPD) et aux règles de l’App Store (ATT).
@@ -41,8 +44,10 @@ Elle ne contient aucun contenu inapproprié, ne propose pas de fonctionnalités 
 💾 Données stockées
 L’application ne stocke aucune donnée utilisateur sur des serveurs externes.
 Les seules informations enregistrées sont :
-- Votre score, sauvegardé localement sur votre appareil
-- Les questions déjà répondues, pour éviter les doublons
+
+Votre score, sauvegardé localement sur votre appareil
+
+Les questions déjà répondues, pour éviter les doublons
 
 🗑 Suppression des données
 Aucun compte utilisateur n’est requis.
@@ -51,11 +56,32 @@ Aucune démarche complémentaire n’est nécessaire.
 
 ⚖️ Conformité réglementaire
 L’application QuizTok respecte :
-- Le RGPD (Europe) – Règlement Général sur la Protection des Données
-- Le CCPA (Californie) – California Consumer Privacy Act (si applicable)
-- Les règles de confidentialité de Google Play et de l’App Store (Apple)
-- Le cadre ATT (App Tracking Transparency) sur iOS
+
+Le RGPD (Europe) – Règlement Général sur la Protection des Données
+
+Le CCPA (Californie) – California Consumer Privacy Act (si applicable)
+
+Les règles de confidentialité de Google Play et de l’App Store (Apple)
+
+Le cadre ATT (App Tracking Transparency) sur iOS
 
 📬 Contact
 Pour toute question ou demande liée à cette politique de confidentialité, vous pouvez nous contacter à :
-📧 quiztokappx@gmail.com
+📧 quizappx@gmail.com
+
+📘 Mentions légales
+Éditeur : Développeur QuizTok (indépendant)
+Contact : quizappx@gmail.com
+Hébergeur de l’app : Google Play Store – Google LLC
+Statut : Application développée à titre indépendant, sans affiliation officielle avec une marque ou une ligue.
+Données personnelles : L’application ne collecte aucune donnée personnelle identifiable.
+Monétisation : L’application est gratuite et financée par la publicité via Google AdMob.
+
+
+
+
+
+
+
+
+
